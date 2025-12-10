@@ -1,7 +1,7 @@
 # 📈 Comparação de Ativos Financeiros — Normalização Base 100
 
 Este projeto apresenta um script em Python para baixar, normalizar e comparar dados históricos de múltiplos ativos financeiros.  
-A normalização em **Base 100** permite comparar o desempenho percentual relativo de ativos com preços muito diferentes — por exemplo, comparar **AAPL x Ibovespa x VALE3** no mesmo gráfico.
+A normalização em **Base 100** permite comparar o desempenho percentual relativo de ativos com preços muito diferentes por exemplo, comparar **AAPL x Ibovespa x VALE3** no mesmo gráfico.
 
 ---
 
