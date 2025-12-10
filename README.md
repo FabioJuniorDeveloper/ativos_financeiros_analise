@@ -43,7 +43,7 @@ def baixar_dados(tickers, period="5y"):
     return df.dropna(how="all")
 
 def normalizar(df):
-    """Normaliza para 100 no primeiro dia."""
+
     return df.div(df.iloc[0]).mul(100)
 
 
